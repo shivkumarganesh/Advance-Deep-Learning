@@ -36,3 +36,9 @@
 		![enter image description here](https://raw.githubusercontent.com/shivkumarganesh/Advance-Deep-Learning/main/Assignment%203/images/TextClassification/eval.png)
 	-	**Gradio App**
 		![enter image description here](https://raw.githubusercontent.com/shivkumarganesh/Advance-Deep-Learning/main/Assignment%203/images/TextClassification/gradio.png)
+5. [Audio Classification on Keyword Spotting](https://github.com/shivkumarganesh/Advance-Deep-Learning/blob/main/Assignment%203/Hugging_Face_Audio_Classification_on_Keyword_Spotting.ipynb)
+	-	**Model Checkpoint :** *facebook/wav2vec2-base*
+	-	**Training Data :** *superb, ks*
+	-	**Wandb Train (Report)**	![enter image description here](https://raw.githubusercontent.com/shivkumarganesh/Advance-Deep-Learning/main/Assignment%203/images/Wave2VEC/train.png)
+	-	**Wandb Eval (Report)**
+		![enter image description here](https://raw.githubusercontent.com/shivkumarganesh/Advance-Deep-Learning/main/Assignment%203/images/Wave2VEC/eval.png)
