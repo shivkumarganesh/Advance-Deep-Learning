@@ -15,4 +15,7 @@
   - Tabular Task
   - Image Task
   - NLP Task
-5. **Assignment 5** : Meta learning and multi task learning
+5. **[Assignment 5](https://github.com/shivkumarganesh/Advance-Deep-Learning/tree/main/Assignment%205)** : Meta learning and multi task learning
+  - Few Shot Learning with Reptile Algorithm
+  - MoME Multi task learning Model
+  - Avalanche Continual Learning Framework
